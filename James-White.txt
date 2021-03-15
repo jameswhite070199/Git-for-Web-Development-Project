@@ -43,7 +43,7 @@ https://codepen.io/Jamesw1999/pen/oNYVqEY?editors=1100
     d. chekout to a new branch
     e. make your code changes
     f. git add . 
-    gti commit -m "some message"
+    git commit -m "some message"
     git push origin -u YOUR branch name
     create the pull request to your main branch
 
